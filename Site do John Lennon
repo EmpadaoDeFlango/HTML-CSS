@@ -1,0 +1,27 @@
+--Site do john Lennon--
+<body>
+<h1><u>John lennon</u><br></h1>
+
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNr3CLBoclrK_IbIK1OP_MJYHkk5Y4rJ5qqSmj1TyYBR-6r2RtWAbF4c-zBX6Veo-EVvXyK2M-TsImUBAAjclQW4xb5ZvO2wQdJHVQFiyNUA&s=10>
+<h2><i>Short description About the artist</h2>
+<p>He is a Britanic artist and compouser,he participated in the great Band The Beatles,but after some disagrements and fights with the other members of the group,he chose a solo career in the music World.</i></p>
+<h2>Link to the Website of the Artist</h2>
+<a href=https://www.johnlennon.com/> Site about John Lennon </a>
+<h2>All Members of the Beatles</h2>
+<ul>
+  <li>John Lennon</li>
+  <li>Paul McCartney</li>
+  <li>George Harrison</li>
+  <li>Ringo Starr</li>
+  <li>Pete Best</li>
+  <li>Stuart Sutcliffe</li>
+</ul>]
+<h2>My favorite Songs of John Lennon</h2>
+<ol>
+  <li>Imagine (1971) – A peaceful anthem calling for unity without borders or religion.</li>
+  <li>Woman (1980) – A tender ballad dedicated to Yoko Ono and all women, featured on Double Fantasy.</li>
+  <li>Jealous Guy (1971) – An introspective and emotional track from the Imagine album.</li>
+  <li>Beautiful Boy (Darling Boy) (1980) – A gentle lullaby written for his son Sean.</li>
+  <li>Give Peace a Chance (1969) – A historic anti-war protest anthem recorded with the Plastic Ono Band.</li>
+</ol>
+</body>
